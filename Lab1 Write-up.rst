@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 What was the hardest part of this lab?
  Everything was hard to me on this first Lab.
 During the course of this lab, why did we exclude .pyc files?
