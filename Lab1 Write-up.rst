@@ -13,7 +13,7 @@
 6. How could you use git to print out just the author name of a given file for the current version of the repo?
  git log -p filename
 7. During this lab did you explore Tortoise Git or GIT Extensions? If not take a look at them, they probably would be useful for the remainder of the class 
-
+ Git Extensions.
 8. Did you find the second issue in get_triangle_type? Did you choose to test the code as is or fix the code in get_triangle_type
-
+ Yes, both fixed.
 
