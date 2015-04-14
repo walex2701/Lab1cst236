@@ -21,6 +21,9 @@ Rectangle
 >>> test_get_quadrilateral_type(length, width, length, width)
 'rectangle'
 
+Invalid
+^^^^^^^^
+
 >>> test_get_quadrilateral_type(length,length, length, width)
 'invalid'
 
