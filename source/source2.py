@@ -6,7 +6,7 @@ The following example code determines if a set of 4 sides of a quadrilateral is 
 """
 
 def get_quadrilateral_type(a=0, b=0, c=0, d=0):
-"""
+    """
     Determine if the given quadrilateral is rectangle or square
 
     :param a: line a
