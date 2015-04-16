@@ -1,5 +1,4 @@
 nose2
-doctest
 coverage
 mock
 sphinx
