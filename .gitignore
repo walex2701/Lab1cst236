@@ -1,7 +1,3 @@
 *.pyc
 *.html
-*.exe
 /.idea
-/htmlcov
-/.coverage
-/doc/build
